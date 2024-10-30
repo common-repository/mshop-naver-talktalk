@@ -1,0 +1,244 @@
+# Copyright (C) 2023 CodeMShop
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: mshop-naver-talktalk 1.1.16\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/mshop-naver-talktalk\n"
+"POT-Creation-Date: 2023-07-27 01:47:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: CodeM\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"Poedit: \n"
+"Language: ko_KR\n"
+
+#: includes/admin/class-msntt-admin.php:15
+msgid "엠샵 소셜톡"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:33
+msgid "네이버 톡톡 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:38
+msgid "상품 상세 페이지 배너 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:42
+msgid "배너 활성화"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:46
+msgid "상품 상세 페이지에서 네이버 톡톡 배너를 사용합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:52
+msgid "PC용 배너 아이디"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:54
+msgid "상품 상세 페이지 네이버 톡톡 배너(PC) 아이디 값을 입력하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:60
+msgid "모바일용 배너 아이디"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:62
+msgid "상품 상세 페이지 네이버 톡톡 배너(Mobile) 아이디 값을 입력하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:67
+#: includes/admin/settings/class-msntt-settings.php:215
+msgid "상품 상세 페이지 배너 위치"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:71
+msgid "상품 상세 페이지 배너 위치를 지정합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:72
+msgid ""
+"테마 구조에 따라 네이버 톡톡 배너의 위치가 달라집니다. 테마 파일을 참고해서 위치를 지정하세요.\r\n"
+"ex) 테마 파일 내 do_action( 'woocommerce_product_meta_start' ); 코드가 있는 위치에 네이버 "
+"톡톡 배너을 출력하려면, woocommerce_product_meta_start 을 입력합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:79
+msgid "고정형 배너 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:83
+msgid "고정형 배너 활성화"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:87
+msgid "모든 페이지 우측 하단에 표시되는 네이버 톡톡 고정형 배너를 사용합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:92
+msgid "PC용 고정형 배너 아이디"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:95
+msgid "네이버 톡톡 PC용 고정형 배너 아이디를 입력하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:100
+msgid "모바일용 고정형 배너 아이디"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:103
+msgid "네이버 톡톡 모바일용 고정형 배너 아이디를 입력하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:114
+msgid "카카오톡 채널 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:118
+msgid "기본 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:122
+msgid "JavaScript key"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:128
+msgid "카카오톡 채널 ID"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:131
+msgid "<div class=\"desc2\">카카오톡 채널 URL에 명시된 id로 설정합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:137
+msgid "상품 상세 페이지 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:141
+#: includes/admin/settings/class-msntt-settings.php:231
+msgid "카카오톡 채널 1:1 채팅하기 활성화"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:148
+#: includes/admin/settings/class-msntt-settings.php:160
+#: includes/admin/settings/class-msntt-settings.php:239
+#: includes/admin/settings/class-msntt-settings.php:251
+msgid "버튼 타입"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:154
+#: includes/admin/settings/class-msntt-settings.php:245
+msgid "기본이미지"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:155
+#: includes/admin/settings/class-msntt-settings.php:246
+msgid "커스텀이미지"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:166
+#: includes/admin/settings/class-msntt-settings.php:257
+msgid "톡상담"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:167
+#: includes/admin/settings/class-msntt-settings.php:258
+msgid "톡문의"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:172
+#: includes/admin/settings/class-msntt-settings.php:263
+msgid "버튼 크기"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:177
+#: includes/admin/settings/class-msntt-settings.php:268
+msgid "버튼 크기를 선택하세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:179
+#: includes/admin/settings/class-msntt-settings.php:270
+msgid "Small"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:180
+#: includes/admin/settings/class-msntt-settings.php:271
+msgid "Large"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:185
+#: includes/admin/settings/class-msntt-settings.php:276
+msgid "버튼 색상"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:191
+#: includes/admin/settings/class-msntt-settings.php:282
+msgid "Yellow"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:192
+#: includes/admin/settings/class-msntt-settings.php:283
+msgid "Mono"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:197
+#: includes/admin/settings/class-msntt-settings.php:206
+#: includes/admin/settings/class-msntt-settings.php:288
+#: includes/admin/settings/class-msntt-settings.php:297
+msgid "커스텀 이미지 URL"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:202
+#: includes/admin/settings/class-msntt-settings.php:293
+msgid "PC에서 보여질 커스텀 이미지 URL을 입력해주세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:211
+#: includes/admin/settings/class-msntt-settings.php:302
+msgid "모바일에서 보여질 커스텀 이미지 URL을 입력해주세요."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:220
+msgid "상품 상세 페이지의 버튼 위치를 지정합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:221
+msgid ""
+"<div class=\"desc2\">테마 구조에 따라 카카오톡 채널 1:1 채팅하기 버튼의 위치가 달라집니다. 테마 파일을 참고해서 "
+"위치를 지정하세요.<br>ex) 테마 파일 내 do_action( 'woocommerce_product_meta_start' ); "
+"코드가 있는 위치에 버튼을 출력하려면, woocommerce_product_meta_start 을 입력합니다.</div>"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:227
+msgid "고정형 버튼 설정"
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:235
+msgid "모든 페이지 우측 하단에 카카오톡 채널 1:1 채팅하기 버튼을 표시합니다."
+msgstr ""
+
+#: includes/admin/settings/class-msntt-settings.php:314
+msgid "매뉴얼"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "코드엠샵 소셜톡"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "쇼핑몰의 회원 확보와 매출 증대를 위해 고객이 가장 익숙한 네이버와 카톡상담으로 고객과의 소통을 진행 해 보세요."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeMShop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.codemshop.com"
+msgstr ""
